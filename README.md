@@ -6,7 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santlielton&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santlielton&layout=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santlielton&layout=compact)
 
 ### Tecnologias que eu uso no meu dia
 
