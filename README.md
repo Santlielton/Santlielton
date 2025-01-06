@@ -5,6 +5,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santlielton&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santlielton&size_weight=0.5&count_weight=0.5)
 
 ### Tecnologias que eu uso no meu dia
 
