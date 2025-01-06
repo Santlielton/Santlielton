@@ -4,9 +4,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/3lidsant0s/profilecard/?igsh=MTc4MWdoN2F5eWplaA==)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santlielton&show_icons=true&theme=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santlielton&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santlielton&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santlielton&layout=dracula)
 
 ### Tecnologias que eu uso no meu dia
 
